@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: rgb(1, 30, 30);
+  color: rgb(188, 180, 206);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  height: 5vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  background-color: bisque;
+  color: rgb(46, 8, 81);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  height: 3vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
